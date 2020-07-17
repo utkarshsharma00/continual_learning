@@ -1,1 +1,2 @@
-# continual_learning
+# Continual Learning<br/>
+Continual learning is the ability of a model to learn continually from a stream of data. In practice, this means supporting the ability of a model to autonomously learn and adapt in production as new data comes in. Some may know it as auto-adaptive learning, or continual AutoML. The idea of CL is to mimic humans ability to continually acquire, fine-tune, and transfer knowledge and skills throughout their lifespan. 
